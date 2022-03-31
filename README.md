@@ -1,1 +1,1 @@
-# Not-Ortalams-Hesaplayan-Program
+# Not-Ortalamsı-Hesaplayan-Program
